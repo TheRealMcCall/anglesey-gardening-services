@@ -11,3 +11,8 @@ body {
 .navigation-menu {
     background-color: #93C47D;
 }
+
+.footer-bar {
+    height: 100px;
+    background-color: #93C47D;
+}
