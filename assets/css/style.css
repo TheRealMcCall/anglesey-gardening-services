@@ -23,6 +23,14 @@ main {
     background-color: #93C47D;
 }
 
+.btn-nav {
+    background-color: #608D8E;
+}
+
+.btn-nav a {
+    color: white;
+}
+
 .footer-bar {
     height: 100px;
     background-color: #93C47D;
