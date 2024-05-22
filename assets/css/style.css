@@ -3,6 +3,8 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
 }
 
 html {
@@ -11,6 +13,21 @@ html {
 
 main {
     flex: 1;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.service-info {
+    background-color: #436A75;
+    color: white;
+    margin: 50px 10px;
+    padding: 20px 20px;
+}
+
+.service-info h4{
+    text-transform: uppercase;
 }
 
 .hero-img {
