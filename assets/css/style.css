@@ -7,25 +7,7 @@ body {
     line-height: 1.6;
 }
 
-main {
-    flex: 1;
-}
-
-ul {
-    list-style-type: none;
-}
-
-.service-info {
-    background-color: #436A75;
-    color: white;
-    margin: 50px 10px;
-    padding: 20px 20px;
-    max-width: 350px;
-}
-
-.service-info h4{
-    text-transform: uppercase;
-}
+/* Header Styling */
 
 .hero-img {
     height: 500px;
@@ -46,9 +28,28 @@ ul {
     margin: 15px;
 }
 
-.btn-nav a {
-    color: white;
+.intro-text {
+    margin: 30px 0px 30px 0px;
 }
+
+/* Services styling */
+
+.service-info {
+    background-color: #436A75;
+    color: white;
+    margin: 50px 10px;
+    padding: 20px 20px;
+}
+
+.service-info h4{
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* Footer stying */
 
 .footer-bar {
     height: 100px;
