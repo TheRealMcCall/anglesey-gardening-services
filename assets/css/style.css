@@ -7,10 +7,6 @@ body {
     line-height: 1.6;
 }
 
-html {
-    height: 100%;
-}
-
 main {
     flex: 1;
 }
@@ -38,10 +34,14 @@ ul {
 
 .navigation-menu {
     background-color: #93C47D;
+    position: fixed;
+    min-width: 100%;
 }
 
 .btn-nav {
     background-color: #608D8E;
+    color: white;
+    margin: 15px;
 }
 
 .btn-nav a {
