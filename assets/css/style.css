@@ -37,16 +37,23 @@ body {
 .service-info {
     background-color: #436A75;
     color: white;
-    margin: 50px 10px;
+    margin: 50px 30px;
     padding: 20px 20px;
+    max-width: 250px;
+    text-align: center;
 }
 
 .service-info h4{
     text-transform: uppercase;
 }
 
-ul {
+.service-info ul {
     list-style-type: none;
+    padding: 0;
+}
+
+.service-info li {
+    text-align: center;
 }
 
 /* Footer stying */
