@@ -66,3 +66,6 @@ The site can be accessed by this [link](Link here)
 + ## Unsolved Bugs
     - Ongoing bugs to be resolved:-
     * Services only showing 3 cards instead of 4 across the screen in desktop screen size.
+
++ ## Credit
+    - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net
