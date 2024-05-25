@@ -37,24 +37,52 @@
     </header>
 
     <main>
-        <section class="services">
-            <div class="container text-center services-title">
+        <section>
+            <div class="container contact-us text-center">
                 <div class="row">
                     <div class="col">
-                        <h2 id="services">
-                           Contact Us
-                        </h2>
+                        <h2>Contact Us</h2>
+                    </div>
+                    <div class="row">
+                        <p>Please enter your details and we will get back to you as soon as possible.</p>
                     </div>
                 </div>
             </div>
         </section>
 
+        <div class="container">
+            <form action="https://formdump.codeinstitute.net" method="post">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Let us know who you are"
+                        required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Enter email address"
+                        required>
+                </div>
+                <div class="mb-3">
+                    <label for="phone" class="form-label">Phone number</label>
+                    <input type="tel" class="form-control" id="phone" name="phone-number"
+                        placeholder="We'll never share your email or phone number" required>
+                    <div id="phoneHelp" class="form-text"></div>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" rows="6" name="message"
+                        placeholder="Tell us what services you would like." required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary my-btn text-center">Submit</button>
+            </form>
+
+        </div>
 
     </main>
 
     <footer>
         <div class="container-fluid">
-            <div class="row footer-bar align-items-center">
+            <div class="row footer-bar-contact align-items-center">
                 <div class="col text-center">
                     <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook fa-2xl"></i></a>
                 </div>
