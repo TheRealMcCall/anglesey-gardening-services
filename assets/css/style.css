@@ -69,6 +69,20 @@ main {
     text-align: center;
 }
 
+/* customer review styling */
+
+.customer-reviews {
+    width: 300px;
+    background-color: #f9f9f9;
+    padding: 20px;
+
+}
+
+.review-title {
+    font-weight: bold;
+}
+
+
 /* Footer stying */
 
 .footer-bar {
