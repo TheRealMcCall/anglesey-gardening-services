@@ -85,6 +85,10 @@ main {
 
 /* Footer stying */
 
+.fa-brands {
+    color: #436A75;
+}
+
 .footer-bar {
     height: 100px;
     background-color: #93C47D;
