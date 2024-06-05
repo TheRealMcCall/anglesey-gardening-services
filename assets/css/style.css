@@ -66,7 +66,7 @@ main {
     text-align: center;
 }
 
-.service-info h4{
+.service-info h4 {
     text-transform: uppercase;
 }
 
@@ -108,4 +108,8 @@ main {
     margin-top: 50px;
     height: 100px;
     background-color: #93C47D;
+}
+
+.footer-bar li {
+    list-style-type: none;
 }
