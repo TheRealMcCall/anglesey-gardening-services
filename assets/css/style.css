@@ -96,8 +96,20 @@ main {
 /* Footer stying */
 
 .fa-brands {
+    color: #608D8E;
+}
+
+.fa-brands:hover {
     color: #436A75;
 }
+
+.fa-hover-effect:hover {
+    -webkit-animation: fa-flip 2s infinite linear;
+    -moz-animation: fa-flip 2s infinite linear;
+    -o-animation: fa-flip 2s infinite linear;
+    animation: fa-flip 2s infinite linear;
+}
+
 
 .footer-bar {
     height: 100px;
