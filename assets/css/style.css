@@ -33,10 +33,20 @@ main {
     min-width: 100%;
 }
 
+/* navigation button styling */
 .btn-nav {
     background-color: #608D8E;
     color: white;
+    padding: 10px 20px;
     margin: 15px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover over animations for nav buttons */
+.btn-nav:hover {
+    background-color: #436A75;
+    transform: translateY(-2px);
 }
 
 /* main site styling */
