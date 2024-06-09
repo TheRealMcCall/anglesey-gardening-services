@@ -57,15 +57,24 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
         
 --- 
 
-+ ## Solved Bugs
+## Solved Bugs
 
     - Below are some bugs that I have encountered:
         * Hero Image causing overflow on some smaller screen sizes.
         * Footer not at end of webpage in some screen sizes.
 
-+ ## Unsolved Bugs
+## Unsolved Bugs
     - Ongoing bugs to be resolved:-
-    * Services only showing 3 cards instead of 4 across the screen in desktop screen size.
+    * 
 
-+ ## Credit
+ ## Credit
     - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net
+
+ ## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/TheRealMcCall/anglesey-gardening-services), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch then click "Save".
+  - Once the branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://therealmccall.github.io/anglesey-gardening-services/) 
