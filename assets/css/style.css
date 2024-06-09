@@ -75,11 +75,10 @@ main {
 
 .submit-text {
     color: white;
-    text-align: center;
     background-color: rgba(0, 0, 0, .5);
-    padding: 10px;
+    padding: 20px;
     border-radius: 10px;
-    width: 25%;
+    margin: 50px;
 }
 
 /* Services styling */
