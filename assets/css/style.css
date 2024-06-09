@@ -62,6 +62,26 @@ main {
     margin-bottom: 30px;
 }
 
+.form-complete {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../images/landscape.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    max-width: 100%;
+}
+
+.submit-text {
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .5);
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+}
+
 /* Services styling */
 .service-info {
     background-color: #436A75;
