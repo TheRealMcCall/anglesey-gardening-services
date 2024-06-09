@@ -7,6 +7,8 @@ Anglesey Gardening Services website shows people information about the company. 
 
 The site can be accessed by this [link](https://therealmccall.github.io/anglesey-gardening-services/)
 
+![Responsive Mockup](documentation/responsive.png)
+
 ---
 ## User Stories
 
