@@ -67,10 +67,32 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
     - Ongoing bugs to be resolved:-
     * 
 
- ## Credit
-    - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net
+## Wireframes
 
- ## Deployment
+#### Mobile devices
+
+- [Home Page. Mobile Screen](documentation/home-page-mobile.png)
+- [About Us Page. Mobile Screen](documentation/about-us-mobile.png)
+- [Contact Us Page. Mobile Screen](documentation/contact-us-mobile.png)
+- [Form Submitted Page. Mobile Screen](documentation/form-complete-mobile.png)
+
+#### Tablets
+
+- [Home Page. Tablet Screen](documentation/home-page-tablet.png)
+- [About Us Page. Tablet Screen](documentation/about-us-tablet.png)
+- [Contact Us Page. Tablet Screen](documentation/contact-us-tablet.png)
+- [Form Submitted Page. Tablet Screen](documentation/form-complete-tablet.png)
+
+#### Desktop
+
+- [Home Page. Desktop Screen](documentation/home-page-desktop.png)
+- [About Us Page. Desktop Screen](documentation/about-us-desktop.png)
+- [Contact Us Page. Desktop Screen](documentation/contact-us-desktop.png)
+- [Form Submitted Page. Desktop Screen](documentation/form-complete-desktop.png)
+
+
+
+## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the [GitHub repository](https://github.com/TheRealMcCall/anglesey-gardening-services), navigate to the Settings tab 
@@ -78,3 +100,6 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
   - Once the branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found [here](https://therealmccall.github.io/anglesey-gardening-services/) 
+
+## Credit
+    - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net  (this was later changed to navigate to a custom form submitted page).
