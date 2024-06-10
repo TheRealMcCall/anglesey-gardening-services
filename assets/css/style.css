@@ -60,6 +60,9 @@ main {
 
 .contact-form {
     margin-bottom: 30px;
+    background-color: #608D8E;
+    padding: 30px;
+    border-radius: 20px;
 }
 
 .form-complete {
