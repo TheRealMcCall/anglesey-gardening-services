@@ -60,33 +60,66 @@ Anglesey Gardening Services website has information for visitors about the compa
     - The text of the currently active page is black.
     - the navigation bar is responsive and has a hamburger menu on tablets and mobile devices.
 
+
+    Navigation for desktop as below image
+
+    ![NavBar desktop](documentation/navigation-desktop.png)
+
+    Navigation for tablet as below image
+
+    ![NavBar tablet](documentation/navigation-tablet.png)
+
+    Navigation for mobile as below image
+
+    ![NavBar mobile](documentation/navigation-mobile.png)
+
+    Hamburger menu for tablet and mobile as below image
+
+    ![NavBar hamburger](documentation/hamburger-menu.png)
+
 ---
 
 + ### Home Page
 
-    #### Header Section
+    #### Home Page
+    - Represents:
 
-    - Includes:
+        * The name of the company
+        * Information about the company
+        * Services available
+        * Social media links
 
-        * The name of the company.
-        * Options to visit the enquiries and reviews section of the site.
-        * Has a clear picture of a landscaped garden supporting what the site is for.
+![Home Page Screen](documentation/home-page.png)
 
-    #### Introduction Section
+#### Header Section
 
-    - Includes:
+- Includes:
+
+    * The name of the company.
+    * Options to visit the enquiries and reviews section of the site.
+    * Has a clear picture of a landscaped garden supporting what the site is for.
+
+![Header Section](documentation/header-image.png)
+
+#### Introduction Section
+
+- Includes:
         
-        * An introduction to the company.
-        * What services are available to the visitor.
+    * An introduction to the company.
+    * What services are available to the visitor.
 
-    #### Footer Section
+![Introduction Section](documentation/intro-image.png)
 
-    - Includes:
+#### Footer Section
 
-        * Social media links change colour on mouse over.
-        * Social media links have a spin animation on mouse over.
+- Includes:
 
-        The page is responsive on common screen sizes.
+    * Social media links change colour on mouse over.
+    * Social media links have a spin animation on mouse over.
+
+![Footer Section](documentation/footer-image.png)
+
+The page is responsive on common screen sizes.
 --- 
 + ### About Us Page
 
