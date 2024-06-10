@@ -39,10 +39,10 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
     
         * Home - links to the home page.
         * About - links to the about us page.
-        * Contact Us - links to the contact us page.
-        * Services - scrolls down the page to the services information. 
+        * Contact Us - links to the contact us page. 
     
-    - The link text higlights when hovered over.
+    - The link text changes black when hovered over.
+    - The link button lifts and gets darker when hovered over.
     - The text of the currently active page is black.
     - the navigation bar is responsive and has a hamburger menu on tablets and mobile devices.
 
@@ -50,14 +50,74 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
 
 + ### Home Page
 
-    - Represents: 
+    #### Header Section
 
-        * Who the company is.
+    - Includes:
+
+        * The name of the company.
+        * Options to visit the enquiries and reviews section of the site.
+        * Has a clear picture of a landscaped garden supporting what the site is for.
+
+    #### Introduction Section
+
+    - Includes:
+        
         * An introduction to the company.
         * What services are available to the visitor.
-        * Options to contact the company for serices.
-        
+
+    #### Footer Section
+
+    - Includes:
+
+        * Social media links change colour on mouse over.
+        * Social media links have a spin animation on mouse over.
+
+        The page is responsive on common screen sizes.
 --- 
++ ### About Us Page
+
+    - Includes:
+
+        * An identical Header Section as the main page for consistency.
+        * An About Us Section explaining the background of the company and what they can do.
+        * Customer Reviews Section giving the visitor an idea of customer satisfaction.
+        * An Identical Footer Section as the main page for consistency.
+
+        The page is responsive on common screen sizes.
+---
++ ### Contact Us Page
+
+    - The contact page has a form:
+        
+        * An identical Header Section as the main page for consistency.
+        * All form input fields are required to be filled in.
+        * There is placeholder text on each input field.
+        * The Submit button changes colour when the mouse is hovered over.
+        * Once complete and submitted the form takes you to the form completed page.
+        * An Identical Footer Section as the main page for consistency.
+
+        The page is responsive on common screen sizes.
+---
++ ### Form Completed Page
+
+    - includes:
+        
+        * An altered Header Section removing the landscape photo and instead placing it in the body.
+        * A clear message with a transparent background stating that the form has been submitted.
+        * A clear message that the company will get back to the visitor.
+        * An Identical Footer Section as the main page for consistency.
+        
+        The page is responsive on common screen sizes.
+---
+
+## Technologies Used
+
+- Technologies used to create the site include:
+    * HTML - was used to create the website.
+    * CSS & Boostrap - was used for styling of the website.
+    * Gitpod & VSCode - was used for creating and editting of the code.
+    * Git - was used for website version control.
+    * GitHub - was used for hosting of the code of the website.
 
 ## Solved Bugs
 
@@ -92,8 +152,6 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
 - [Contact Us Page. Desktop Screen](documentation/contact-us-desktop.png)
 - [Form Submitted Page. Desktop Screen](documentation/form-complete-desktop.png)
 
-
-
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -104,4 +162,5 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
 The live link can be found [here](https://therealmccall.github.io/anglesey-gardening-services/) 
 
 ## Credit
+
     - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net  (this was later changed to navigate to a custom form submitted page).
