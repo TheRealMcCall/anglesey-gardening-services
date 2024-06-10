@@ -1,15 +1,29 @@
 
 ---
 
-# *Anglesey Garden Services*
-
-Anglesey Gardening Services website shows people information about the company.  It also shows information about what services it provides and allows the visitors to quickly contact the company.
-
-The site can be accessed by this [link](https://therealmccall.github.io/anglesey-gardening-services/)
+# *Anglesey Gardening Services*
 
 ![Responsive Mockup](documentation/responsive.png)
 
+The site can be accessed by this [link](https://therealmccall.github.io/anglesey-gardening-services/)
+
 ---
+# Contents
+
+* [Project Overview](#project-overview)
+* [User Stories](#user-stories)
+* [Features](#features)
+* [Technologies Used](#technologies-used)
+* [Wireframes](#wireframes)
+* [Deployment](#deployment)
+* [Testing](#testing)
+* [Credits](#credits)
+---
+
+# Project Overview
+
+Anglesey Gardening Services website has information for visitors about the company.  It also shows information about what services it provides and allows the visitors to quickly contact the company.
+
 ## User Stories
 
 ### First Time Visitor Goals:
@@ -158,4 +172,18 @@ Please refer to [TESTING.md](TESTING.md) file for all documentation related to t
 
 ## Credits
 
-    - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net  (this was later changed to navigate to a custom form submitted page).
++ #### Content
+
+- Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net  (this was later changed to navigate to a custom form submitted page).
+- Inspiration from stack overflow on how to get font awesome icons to animate on hover over. [here](https://stackoverflow.com/questions/21030259/fontawesome-icons-spin-only-on-mouseover).
+- Inspiration for code used to create a transparent box around form submitted box. [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto/Make_box_transparent).
+- Code from Mozilla.org used to add a ‘lift’ effect on my nav buttons. [here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateY).
+
++ #### Media
+
+- Hero Image this was sourced from [Vecteezy](https://Vecteezy.com) and can be found [here](https://www.vecteezy.com/photo/30660484-professional-landscape-designs-high-quality).
+
++ #### Tools
+- [mycolor.space](https://mycolor.space/) was used to create the colour pallete.
+
+---
