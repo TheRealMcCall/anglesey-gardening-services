@@ -88,6 +88,7 @@ Anglesey Gardening Services website has information for visitors about the compa
         * Information about the company
         * Services available
         * Social media links
+        * The page is responsive on common screen sizes.
 
 ![Home Page Screen](documentation/home-page.png)
 
@@ -119,7 +120,6 @@ Anglesey Gardening Services website has information for visitors about the compa
 
 ![Footer Section](documentation/footer-image.png)
 
-The page is responsive on common screen sizes.
 --- 
 + ### About Us Page
 
@@ -129,8 +129,9 @@ The page is responsive on common screen sizes.
         * An About Us Section explaining the background of the company and what they can do.
         * Customer Reviews Section giving the visitor an idea of customer satisfaction.
         * An Identical Footer Section as the main page for consistency.
+        * The page is responsive on common screen sizes.
 
-        The page is responsive on common screen sizes.
+![About Us Page](documentation/about-us-page.png)
 ---
 + ### Contact Us Page
 
@@ -142,8 +143,10 @@ The page is responsive on common screen sizes.
         * The Submit button changes colour when the mouse is hovered over.
         * Once complete and submitted the form takes you to the form completed page.
         * An Identical Footer Section as the main page for consistency.
+        * The page is responsive on common screen sizes.
 
-        The page is responsive on common screen sizes.
+![Contact Us Page](documentation/contact-us-page.png)
+
 ---
 + ### Form Completed Page
 
@@ -153,8 +156,9 @@ The page is responsive on common screen sizes.
         * A clear message with a transparent background stating that the form has been submitted.
         * A clear message that the company will get back to the visitor.
         * An Identical Footer Section as the main page for consistency.
-        
-        The page is responsive on common screen sizes.
+        * The page is responsive on common screen sizes.
+
+![Submitted Form Page](documentation/submit-page-image.png)
 ---
 
 ## Technologies Used
@@ -165,6 +169,7 @@ The page is responsive on common screen sizes.
     * Gitpod & VSCode - was used for creating and editting of the code.
     * Git - was used for website version control.
     * GitHub - was used for hosting of the code of the website.
+    * Gimp - Software used to resize images for README.md.
 
 ---
 ## Wireframes
