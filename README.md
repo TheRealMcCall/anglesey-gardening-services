@@ -119,16 +119,7 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
     * Git - was used for website version control.
     * GitHub - was used for hosting of the code of the website.
 
-## Solved Bugs
-
-    - Below are some bugs that I have encountered:
-        * Hero Image causing overflow on some smaller screen sizes.
-        * Footer not at end of webpage in some screen sizes.
-
-## Unsolved Bugs
-    - Ongoing bugs to be resolved:-
-    * 
-
+---
 ## Wireframes
 
 #### Mobile devices
@@ -161,6 +152,10 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
 
 The live link can be found [here](https://therealmccall.github.io/anglesey-gardening-services/) 
 
-## Credit
+## Testing
+
+Please refer to [TESTING.md](TESTING.md) file for all documentation related to testing.
+
+## Credits
 
     - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net  (this was later changed to navigate to a custom form submitted page).
