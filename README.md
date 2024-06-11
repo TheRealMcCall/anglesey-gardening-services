@@ -18,6 +18,7 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
 * [Deployment](#deployment)
 * [Testing](#testing)
 * [Credits](#credits)
+* [Acknowledgements](#credits)
 ---
 
 # Project Overview
