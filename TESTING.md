@@ -104,7 +104,7 @@ Manual testing was carried out on all pages to ensure consistency.
 
   ### Form Completed page
 
-  ![Response Page Lighthouse](documentation/lighthouse-form-complete.png)
+  ![Form Completed Page Lighthouse](documentation/lighthouse-form-complete.png)
 
 ---
 ## Bugs
@@ -114,9 +114,13 @@ Manual testing was carried out on all pages to ensure consistency.
     
       *Solution:* Added max width 100% to style.css
     
+    ![Hero Image Bug](documentation/hero-bug.png)
+    
     * Footer not at end of webpage in some screen sizes.
 
       *Solution:* Added height 100% to style.css
+
+     ![Footer Positioning Bug](documentation/footer-bug.png)
 
     * Submit button too close to footer on Contact Us page.
 
@@ -126,5 +130,8 @@ Manual testing was carried out on all pages to ensure consistency.
 
       *Solution:* Bootstrap class Justify-content-center added.
 
+    ![Review alignment Bug](documentation/review-bug.png)
+
 + ### Unsolved bugs.
   - None Found.
+---
