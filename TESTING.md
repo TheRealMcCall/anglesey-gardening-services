@@ -19,11 +19,12 @@ The website was tested on the following browsers for responsiness with no proble
   - Edge
 
 The website was also tested on numerous sized screens and responded to all sizes:-
-  - Google Pixel 8 Pro, 
-  - Samsung Galaxy S22 PLUS, 
-  - 15" laptop, 
-  - 24" screen, 
-  - 27" screen and responded as expected to all sizes.
+  - Google Pixel 8 Pro 
+  - Samsung Galaxy S22 PLUS 
+  - iPhone 15
+  - 15" laptop 
+  - 24" screen 
+  - 27" screen
 
 Chrome development tools was used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
 
