@@ -11,6 +11,12 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 | Firefox | ![screenshot](documentation/firefox-screen.png) | works as expected |
 | Edge | ![screenshot](documentation/edge-screen.png) | Works as expected
 
+## Responsiveness
+
+The website was tested on Chrome, Firefox and Edge with no problems found.
+
+The website was tested on numerous sized screens including Google Pixel 8 Pro, Samsung Galaxy S22 PLUS, 15" laptop, 24" screen, 27" screen and responded as expected to all sizes.
+Chrome development tools was used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
 
 ## Validator Testing
 + ### HTML
