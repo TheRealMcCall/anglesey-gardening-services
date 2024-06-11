@@ -224,4 +224,8 @@ Please refer to [TESTING.md](TESTING.md) file for all documentation related to t
 + #### Tools
 - [mycolor.space](https://mycolor.space/) was used to create the colour pallete.
 
+## Acknowledgements
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova) - My Code Insitute Mentor for all her help, support and advice.
+- [Lewis Dillon](https://github.com/LewisMDillon) - Code Insitute Cohort Facilitator weekly stand-ups and motivational support.
+
 ---
