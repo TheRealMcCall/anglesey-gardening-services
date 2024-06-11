@@ -48,8 +48,12 @@
                 </div>
             </div>
         </nav>
-        <img src="assets/images/landscape.jpg" class="hero-img" alt="a picture of a landscaped garden">
-
+        <picture>
+            <source srcset="assets/images/landscape-large.webp" media="(min-width: 1200px)">
+            <source srcset="assets/images/landscape-medium.webp" media="(min-width: 768px) and (max-width: 1199px)">
+            <source srcset="assets/images/landscape-small.webp" media="(max-width: 767px)">
+            <img src="assets/images/landscape-large.webp" class="hero-img" alt="a picture of a landscaped garden">
+        </picture>
     </header>
 
     <!-- About us text -->
