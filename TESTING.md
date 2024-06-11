@@ -22,7 +22,29 @@
 
     ![Form Completed Page](documentation/form-complete-validator.png)
 
+---
 
++ ## LightHouse report
+
+    - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
+    
+  ### Home page
+
+  ![Home Page Lighthouse](documentation/lighthouse-home.png)
+
+  ### About Us page
+
+  ![About Us Page Lighthouse](documentation/lighthouse-about-us.png)
+
+  ### Contact Us page
+
+  ![Contact Us Page Lighthouse](documentation/lighthouse-contact-us.png)
+
+  ### Form Completed page
+
+  ![Response Page Lighthouse](documentation/lighthouse-form-complete.png)
+
+---
 ## Bugs
 + ### Solved Bugs
 
