@@ -1,5 +1,17 @@
 # Testing
 
+## Browser Compatibility
+
+
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+| Browser | Screenshot | Notes |
+| --- | --- | --- |
+| Chrome | ![screenshot](documentation/chrome-screen.png) | Works as expected |
+| Firefox | ![screenshot](documentation/firefox-screen.png) | works as expected |
+| Edge | ![screenshot](documentation/edge-screen.png) | Works as expected
+
+
 ## Validator Testing
 + ### HTML
   #### Home Page
