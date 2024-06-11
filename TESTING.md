@@ -26,6 +26,21 @@
 ## Bugs
 + ### Solved Bugs
 
-- Below are some bugs that I have encountered:
     * Hero Image causing overflow on some smaller screen sizes.
+    
+      *Solution:* Added max width 100% to style.css
+    
     * Footer not at end of webpage in some screen sizes.
+
+      *Solution:* Added height 100% to style.css
+
+    * Submit button too close to footer on Contact Us page.
+
+      *Solution:* Added margin-bottom to .contact form.
+
+    * Customer reviews aligned left and not center on mobile screens.
+
+      *Solution:* Bootstrap class Justify-content-center added.
+
++ ### Unsolved bugs.
+  - None Found.
