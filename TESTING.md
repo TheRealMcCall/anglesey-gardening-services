@@ -13,10 +13,54 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 ## Responsiveness
 
-The website was tested on Chrome, Firefox and Edge with no problems found.
+The website was tested on the following browsers for responsiness with no problems found.
+  - Chrome
+  - Firefox
+  - Edge
 
-The website was tested on numerous sized screens including Google Pixel 8 Pro, Samsung Galaxy S22 PLUS, 15" laptop, 24" screen, 27" screen and responded as expected to all sizes.
+The website was also tested on numerous sized screens and responded to all sizes:-
+  - Google Pixel 8 Pro, 
+  - Samsung Galaxy S22 PLUS, 
+  - 15" laptop, 
+  - 24" screen, 
+  - 27" screen and responded as expected to all sizes.
+
 Chrome development tools was used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
+
+## Manual Testing
+
+Manual testing was carried out on all pages to ensure consistency.
+
+| Feature  | Action |Result|
+| ------------- | ------------- |-------------|
+|HEADER (ALL PAGES)|
+|Brand Name	  | Click  | Links to Home Page|
+|Home Button  | Hover over Home  | Button lifts and background darkens|
+|Enquiries Button  | Hover over Enquiries  | Button lifts and background darkens|
+|About Us / Reviews Button  | Hover over About Us / Reviews  | Button lifts and background darkens|
+|Home Button  | Click on Home  | Links to Home Page|
+|Enquiries Button  | Click on Enquiries  | Opens Contact Us page |
+|About Us / Reviews Button  | Click on About Us / Reviews  | Opens About Us page |
+|Hamburger Button (Tablet/Mobile) | Click on Hamburger Menu | Opens drop down menu with navigational links |
+|Home Button on drop down menu| Click on Home in dropdown  | Opens Home page |
+|Enquiries Button on drop down menu| Click on Enquiries in dropdown  | Opens About Us page |
+|About Us Button on drop down menu| Click on About Us / Reviews in dropdown  | Opens About Us page |
+|  |  | |
+| FOOTER (ALL PAGES) | | |
+| Social Media Section	| Hover over Facebook icon |Icon darkens and spins |
+| Social Media Section	| Hover over Instagram icon |Icon darkens and spins |
+| Social Media Section	| Hover over X icon  |Icon darkens and spins |
+| Social Media Section	| Click on Facebook icon |Opens Facebook in a new tab |
+| Social Media Section	| Click on Instagram icon |Opens Instagram in a new tab |
+| Social Media Section	| Click on X icon |Opens X (Twitter) in a new tab |
+|  |  | |
+| CONTACT US (PAGE SPECIFIC) |  |
+| Form  | Placeholder text	|Placeholder text is displaying |
+| Form  | Click on input field	|Border of field is highlighted |
+| Form  | Click on Submit (when fields incomplete or empty) |Error message to fill in field |
+| Form  | Click on Submit (when email field invalid) |Error message to enter correct email address |
+| Form  | Click on Submit (when fields completed correctly) |Navigates to form completed page |
+| Form  | Hover over Submit |background colour changes |
 
 ## Validator Testing
 + ### HTML
