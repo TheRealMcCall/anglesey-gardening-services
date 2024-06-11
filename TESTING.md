@@ -9,7 +9,6 @@
 * [LightHouse Report](#lighthouse-report)
 * [Bugs](#bugs)
 * [Unsolved Bugs](#unsolved-bugs)
-
 ---
 
 ## Browser Compatibility
@@ -148,3 +147,5 @@ Manual testing was carried out on all pages to ensure consistency.
 + ### Unsolved bugs.
   - None Found.
 ---
+
+* [Back To Top](#testing)
