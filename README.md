@@ -180,7 +180,13 @@ Anglesey Gardening Services website has information for visitors about the compa
 
 ![Color palette](documentation/color-palette.png)
 
-- 
+- Light green was used for the navigation bar background as it is associated with nature, making it an ideal choice for a gardening website.
+
+- A very light green was used as the main background colour of the website as it provides a clean and subtle look that doesn't distract from the content while maintaining a natural feel. It also complements the overall gardening theme and goes well with the other green elements.
+
+- A darker, blue-green background was used for the service cards to help them stand out against the lighter background without being too jarring.
+
+- A lighter blue-green was used for the navigation buttons as it is visible against the navigation bar and works well with the other colours of the website. while being different enough to be noticeable.
 
 ### Typography
 
