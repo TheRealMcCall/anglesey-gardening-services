@@ -164,12 +164,15 @@ Anglesey Gardening Services website has information for visitors about the compa
 ## Technologies Used
 
 - Technologies used to create the site include:
-    * HTML - was used to create the website.
-    * CSS & Boostrap - was used for styling of the website.
-    * Gitpod & VSCode - was used for creating and editting of the code.
-    * Git - was used for website version control.
-    * GitHub - was used for hosting of the code of the website.
-    * Gimp - Software used to resize images for README.md.
+    * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - was used to create the website.
+    * [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used for the styling of the website.
+    * [Bootstrap](https://getbootstrap.com/) - Framework used.
+    * [Gitpod](https://gitpod.io/) - was the cloud based IDE used for creating and editing of the code.
+    * [VSCode](https://code.visualstudio.com/) - IDE Used.
+    * [Git](https://www.git-scm.com/) - was used for website version control.
+    * [GitHub](https://github.com/) - was used for hosting of the code of the website.
+    * [GitHub Pages](https://pages.github.com/) - was used for hosting the deployed front-end site.
+    * [Gimp](https://www.gimp.org/) - Software used to resize images for README.md.
 
 ## Design
 
@@ -228,18 +231,18 @@ Please refer to [TESTING.md](TESTING.md) file for all documentation related to t
 
 ## Credits
 
-+ ### Content
+### Content
 
 - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net  (this was later changed to navigate to a custom form submitted page).
 - Inspiration from stack overflow on how to get font awesome icons to animate on hover over. [here](https://stackoverflow.com/questions/21030259/fontawesome-icons-spin-only-on-mouseover).
 - Inspiration for code used to create a transparent box around form submitted box. [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto/Make_box_transparent).
 - Code from Mozilla.org used to add a ‘lift’ effect on my nav buttons. [here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateY).
 
-+ ### Media
+### Media
 
 - Hero Image this was sourced from [Vecteezy](https://Vecteezy.com) and can be found [here](https://www.vecteezy.com/photo/30660484-professional-landscape-designs-high-quality).
 
-+ ### Tools
+### Tools
 - [mycolor.space](https://mycolor.space/) was used to create the colour pallete.
 
 ## Acknowledgements
@@ -247,4 +250,5 @@ Please refer to [TESTING.md](TESTING.md) file for all documentation related to t
 - [Lewis Dillon](https://github.com/LewisMDillon) - Code Insitute Cohort Facilitator weekly stand-ups and motivational support.
 
 ---
+
 * [Back To Top](#anglesey-gardening-services)
