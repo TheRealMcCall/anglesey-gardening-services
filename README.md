@@ -178,6 +178,10 @@ Anglesey Gardening Services website has information for visitors about the compa
 
 ### Color Scheme
 
+![Color palette](documentation/color-palette.png)
+
+- 
+
 ### Typography
 
 ### Wireframes
