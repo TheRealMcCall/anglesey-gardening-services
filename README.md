@@ -8,7 +8,7 @@
 The site can be accessed by this [link](https://therealmccall.github.io/anglesey-gardening-services/)
 
 ---
-# Contents
+## Contents
 
 * [Project Overview](#project-overview)
 * [User Stories](#user-stories)
@@ -21,7 +21,7 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
 * [Acknowledgements](#credits)
 ---
 
-# Project Overview
+## Project Overview
 
 Anglesey Gardening Services website has information for visitors about the company.  It also shows information about what services it provides and allows the visitors to quickly contact the company.
 
@@ -82,7 +82,6 @@ Anglesey Gardening Services website has information for visitors about the compa
 
 + ### Home Page
 
-    #### Home Page
     - Represents:
 
         * The name of the company
@@ -172,8 +171,13 @@ Anglesey Gardening Services website has information for visitors about the compa
     * GitHub - was used for hosting of the code of the website.
     * Gimp - Software used to resize images for README.md.
 
----
-## Wireframes
+## Design
+
+### Color Scheme
+
+### Typography
+
+### Wireframes
 
 #### Mobile devices
 
@@ -196,14 +200,27 @@ Anglesey Gardening Services website has information for visitors about the compa
 - [Contact Us Page. Desktop Screen](documentation/contact-us-desktop.png)
 - [Form Submitted Page. Desktop Screen](documentation/form-complete-desktop.png)
 
+---
+
 ## Deployment
+
+### Deployment to Github Pages
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the [GitHub repository](https://github.com/TheRealMcCall/anglesey-gardening-services), navigate to the Settings tab 
   - From the source section drop-down menu, select the **Main** Branch then click "Save".
   - Once the branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://therealmccall.github.io/anglesey-gardening-services/) 
+The live link can be found [here](https://therealmccall.github.io/anglesey-gardening-services/)
+
+### Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/TheRealMcCall/anglesey-gardening-services.git`
+
+---
 
 ## Testing
 
@@ -211,18 +228,18 @@ Please refer to [TESTING.md](TESTING.md) file for all documentation related to t
 
 ## Credits
 
-+ #### Content
++ ### Content
 
 - Code taken from code intitute LMS to trigger response page. https://formdump.codeinstitute.net  (this was later changed to navigate to a custom form submitted page).
 - Inspiration from stack overflow on how to get font awesome icons to animate on hover over. [here](https://stackoverflow.com/questions/21030259/fontawesome-icons-spin-only-on-mouseover).
 - Inspiration for code used to create a transparent box around form submitted box. [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto/Make_box_transparent).
 - Code from Mozilla.org used to add a ‘lift’ effect on my nav buttons. [here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateY).
 
-+ #### Media
++ ### Media
 
 - Hero Image this was sourced from [Vecteezy](https://Vecteezy.com) and can be found [here](https://www.vecteezy.com/photo/30660484-professional-landscape-designs-high-quality).
 
-+ #### Tools
++ ### Tools
 - [mycolor.space](https://mycolor.space/) was used to create the colour pallete.
 
 ## Acknowledgements
