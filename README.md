@@ -190,6 +190,9 @@ Anglesey Gardening Services website has information for visitors about the compa
 
 ### Typography
 
+- Arial was used as the main font for the website as it is clear to read and has a professional look.
+-  [Font Awesome](https://fontawesome.com) was used for the social icons used in the page footer.
+
 ### Wireframes
 
 #### Mobile devices
