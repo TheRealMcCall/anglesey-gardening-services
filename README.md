@@ -14,6 +14,7 @@ The site can be accessed by this [link](https://therealmccall.github.io/anglesey
 * [User Stories](#user-stories)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
+* [Design](#design)
 * [Wireframes](#wireframes)
 * [Deployment](#deployment)
 * [Testing](#testing)
