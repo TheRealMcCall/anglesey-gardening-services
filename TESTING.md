@@ -33,11 +33,23 @@ The website was also tested on numerous sized screens and responded to all sizes
   - Google Pixel 8 Pro 
   - Samsung Galaxy S22 PLUS 
   - iPhone 15
-  - 15" laptop 
-  - 24" screen 
-  - 27" screen
+  - 15" 1080p laptop screen 
+  - 24" 1080p desktop screen 
+  - 27" 1440p desktop screen
 
-Chrome development tools was used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
+The website was checked on various personal devices and [responsiveviewer.org](https://responsiveviewer.org/) was used to check others.
+
+| Device | Screenshot | Notes |
+| --- | --- | --- |
+| 1440p Desktop Monitor | ![screenshot](documentation/1440p-desktop-responsive.png) | Works as expected |
+| 1080p Desktop Monitor | ![screenshot](documentation/1080p-desktop-responsive.png) | Works as expected |
+| 1080p Portrait Desktop Monitor | ![screenshot](documentation/1080p-desktop-portrait-responsive.png) | Works as expected |
+| Google Pixel 8 Pro | ![screenshot](documentation/pixel8pro-responsive.png) | Works as expected |
+| Galaxy Tab S7 | ![screenshot](documentation/galaxytab-responsive.png) | Works as expected |
+| iPhone 15 | ![screenshot](documentation/iphone-responsive.png) | Works as expected |
+
+Chrome development tools were also used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
+
 
 ## Manual Testing
 
