@@ -108,6 +108,10 @@ Manual testing was carried out on all pages to ensure consistency.
 
     ![Form Completed Page](documentation/form-complete-validator.png)
 
++ ### CSS
+  No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
+
+  ![Form Completed Page](documentation/css-validator.png)
 ---
 
 + ## LightHouse report
