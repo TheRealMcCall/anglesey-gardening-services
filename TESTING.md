@@ -150,6 +150,8 @@ Manual testing was carried out on all pages to ensure consistency.
 
       *Solution:* Added margin-bottom to .contact form.
 
+    ![Submit button Bug](documentation/submit-bug.png)
+
     * Customer reviews aligned left and not center on mobile screens.
 
       *Solution:* Bootstrap class Justify-content-center added.
