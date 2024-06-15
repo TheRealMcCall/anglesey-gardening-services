@@ -158,6 +158,12 @@ Manual testing was carried out on all pages to ensure consistency.
 
     ![Review alignment Bug](documentation/review-bug.png)
 
+    * Performance issues with oversized hero image.
+
+      *Solution:* Created 3 different image and used seperately for different viewports to limit images becoming pixelised.
+
+    ![Image Bug](documentation/image-bug.png)
+
 + ### Unsolved bugs.
   - None Found.
 ---
